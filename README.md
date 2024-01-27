@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErNadeemAli
 - 👀 I’m interested in coding
-- 🤷‍♂️ I'm a Full Stack developer.
+- 🤷‍♂️ I'm a Full Stack Dot Net Developer.
 - 🌱 I’m currently learning new things.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by email id
